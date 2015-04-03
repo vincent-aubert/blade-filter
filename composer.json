@@ -1,0 +1,11 @@
+{
+    "name": "vincent-aubert/blade-filter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vince",
+            "email": "vincent_aubert@live.fr"
+        }
+    ],
+    "require": {}
+}
